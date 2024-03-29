@@ -1,0 +1,7 @@
+flask 
+requests
+bs4
+pymongo
+dnspython
+python-dotenv
+urllib3==1.26.6
